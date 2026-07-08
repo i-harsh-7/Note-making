@@ -1,0 +1,4 @@
+# Linux extras — run after requirements.txt
+-r requirements.txt
+paddleocr>=2.8.0
+paddlepaddle>=2.6.0

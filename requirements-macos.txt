@@ -1,0 +1,5 @@
+# macOS extras — run after requirements.txt
+-r requirements.txt
+pyobjc-core>=10.0
+pyobjc-framework-Vision>=10.0
+pyobjc-framework-Quartz>=10.0
